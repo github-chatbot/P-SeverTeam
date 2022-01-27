@@ -1,6 +1,6 @@
 
 module.exports.config = {
-    name: "job",
+    name: "work",
     version: "1.0.2",
     hasPermssion: 0,
     credits: "P-SeverTeam", 
